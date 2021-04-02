@@ -1,5 +1,5 @@
 # MOODIFY-learning
-Number of Maximum 1's added is 1160
+
 This Assignment of MOODIFY-learning is based on a basic Virus spread simulator. We have taken a grid(a 2D np array) of dimension 100 x 150 and each block represents a person that means there are a total of 15000 people and the simulation stops when all the people are infected 
 Value 0 means not affected and 1 means affected by the virus. Also the people randomly travelwhich is simulated as swapping of values randomly in each iteration. 
 In this project I have used modules like numpy, matplotlib and random 
@@ -9,5 +9,6 @@ simple functions like
 The project also includes conlusion based on few graphs that have been plotted based on the information we get from the simulation 
 #####   1) One graph is the plot between the number of infected people v/s no. of iterations 
 #####   2) Other graph is a plot of number of infected people added in each iteration v/s no. of iterations
- From the above plots we get to know that maximum number of infected people added in a single iteration is 
+![](both_plots.png)
+From the above plots we get to know that maximum number of infected people added in a single iteration is 1160
        
