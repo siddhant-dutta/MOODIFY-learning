@@ -6,6 +6,7 @@ each iteration includes
 - travelling of people
 - effect on first and second neighbours 
 - and then we store the statistics
+
 In this project I have used modules like numpy, matplotlib and random 
 ```bash
 pip install matplotlib
