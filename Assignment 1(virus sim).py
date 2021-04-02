@@ -78,7 +78,7 @@ x = range(iterations+1)
 plt.plot(x, ones)
 plt.xlabel("Number of Iterations")
 plt.ylabel("Number of 1's in the Matrix")
-plt.show()
+# plt.show()
 
 plt.subplot(2,1,2)
 plt.plot(x, onesadded)
