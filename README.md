@@ -1,7 +1,11 @@
 # MOODIFY-learning
 
 This Assignment of MOODIFY-learning is based on a basic Virus spread simulator. We have taken a grid(a 2D np array) of dimension 100 x 150 and each block represents a person that means there are a total of 15000 people and the simulation stops when all the people are infected 
-Value 0 means not affected and 1 means affected by the virus. Also the people randomly travelwhich is simulated as swapping of values randomly in each iteration. 
+Value 0 means not affected and 1 means affected by the virus. Also the people randomly travel which is simulated as swapping of values randomly in each iteration. 
+each iteration includes 
+- travelling of people
+- effect on first and second neighbours 
+- and then we store the statistics
 In this project I have used modules like numpy, matplotlib and random 
 simple functions like 
 #### 1) travel() - which simulates the swapping of values on random basis 
