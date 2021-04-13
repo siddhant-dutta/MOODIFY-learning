@@ -1,4 +1,4 @@
-# MOODIFY-learning 
+# INDEX (MOODIFY-learning) 
 ### Assignment1
 - Based on making a Virus spread simulator and plotting different graphs to analyse it 
 ### Assignment_2
