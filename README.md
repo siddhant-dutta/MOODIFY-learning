@@ -1,7 +1,7 @@
 # INDEX 
 ##  (MOODIFY-learning) 
 MOODIFY is a project of the Summer of Code hosted by the Web and Coding Club (WnCC) of IIT Bombay,<br>
-on which I and a few other fellow mates will be working. As a part of this project I am learning Machine learning. The following are few assignments or mini projects which I have done durng this period.<hr>
+on which I and a few other fellow mates will be working. As a part of this project I am learning Machine learning. The following are a few assignments or mini projects which I have done durng this period.<hr>
 
 ### Assignment1
 - Based on making a Virus spread simulator and plotting different graphs to analyse it 
